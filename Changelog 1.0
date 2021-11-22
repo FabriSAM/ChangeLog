@@ -1,0 +1,90 @@
+📣 📣 📣 CHANGELOG UFFICIALE ITALICA 1.0   21/11/2021 📣 📣 📣 
+
+
+🔧  OTTIMIZZAZIONE SERVER  🔧
+
+- Mappa 
+
+- Dettagli particellari
+
+- Effetti e suoni
+
+- Incremento FPS
+
+
+
+🖥️  SCRIPT  🖥️ 
+
+- NUOVA mappa  🗺️ 
+
+- Implementato nuovo HUD  📷 
+
+Barra della salute
+Barra della fame
+Livello d'idratazione
+Livello d’ossigeno
+Barra del riposo ( con annesso debuff )
+Barra della stamina
+
+
+- Nuovi accessori 
+
+Lanterna 🕯️ 
+Sigaretta  🚬 
+Scopa (strumento di pulizia)  🧹 
+
+
+- Nuovi modelli di Scope volanti 🧹 🪄 
+- Implementati Tappeti volanti  🥏  🪄 
+- Implementate Poltrone volanti 🪑 🪄 
+
+- Aggiornamento del sistema di Quidditch  🏟️ 🧹🏟️ 
+
+- Nuovi sistemi di storage 📥 
+
+- Lavori non whitelistati 👷 
+
+Agricoltore
+Minatore
+Taglialegna
+
+- Aggiunte nuove animazioni  🏃‍♂️ 🏃‍♀️ 
+
+- Nuovo sistema di duelli regolamentato ( con script ) 🔥 🏆
+
+- Nuovo sistema di messaggistica Gufo  🦉📨 📩 
+
+- Introdotto sistema bancario : possibilità di avere un proprio conto in banca 💰 💰 💰 
+
+- Nuovo sistema di spostamento tramite Metropolvere  🟢 📍 
+
+- Ottimizzato sistema di distillazione 🍺 💀 
+
+- Aggiunto nuovo sistema di negozi e di bancarelle personali / posizionabili  🧙 🛒 
+
+- Aggiunto nuovo sistema di avviso lezioni per gli studenti 🏫 
+
+- Aggiunto nuovo sistema di licenze 📜 
+
+- Client ufficiale d’italica 🥇 
+
+- Aggiunto Menù ESC personalizzato  ⌨️ 
+
+- Aggiunto nuovo sistema di pozioni con relativo crafting  🧪 🛠️ 
+
+- Aggiunto nuovo sistema di farming  oggetti con relativo crafting  💡🛠️ 
+
+- Aggiunti nuovi items di cibo con relativo crafting  🍖 🍨 🛠️
+
+- Rework e implementazione di nuovi incantesimi   🪄      ✨ ☄️ 💥 🧊 🔥 
+
+
+📜  ROLEPLAY E REGOLAMENTO 📜    🧙‍♀️  🧙‍♂️
+
+- Aggiornamento del regolamento  📜 🆙 
+
+- Nuovo sistema burocratico ministeriale 🏛️ 
+
+- Aggiornamento intero sistema economico  💰 🏦 💰 
+
+- Rework del sistema scolastico con introduzione ai corsi di studio 🎒 🧙 
